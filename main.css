@@ -11,6 +11,12 @@ h {
 }
 
 ul {
+    /* navigation-bar kommer fästas i toppen om man bläddrar ner */
+    position: fixed;
+    top: 0;
+    width: 100%;
+    
+    float: right;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -19,14 +25,13 @@ ul {
 }
 
 li {
-    float: left;
+    float: right;
 }
 
 li a {
     display: block;
     color: black;
     text-align: center;
-    padding: 14px 16px;
     text-decoration: none;
 }
 
