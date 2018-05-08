@@ -12,13 +12,15 @@
 
 <h>Hälsocoachen</h1>
 
+</div>
+
  <ul>
   <li><a href="default.asp">Vad är hälsocoaching?</a></li>
   <li><a href="news.asp">Om oss</a></li>
   <li><a href="contact.asp">Logga In/Registrera</a></li>
 </ul> 
 
-</div>
+
 
         </body>
 
