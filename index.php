@@ -9,7 +9,6 @@
     </head>
         <body>
 <div id = "header">
-
 <h>Hälsocoachen</h1>
 
 </div>
@@ -21,6 +20,10 @@
 </ul> 
 
 
+
+<div id="bilder">
+<img src="../Projekt/img/headertest.jpg" id="Bild1">
+</div>
 
         </body>
 
