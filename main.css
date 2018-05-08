@@ -30,7 +30,8 @@ li a {
     text-decoration: none;
 }
 
-#Bild1{
+img{
+    margin-left: 8%;
     position: absolute;
     clip: rect(0px, 1400px, 450px, 0px);
 }

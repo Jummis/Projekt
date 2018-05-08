@@ -20,10 +20,8 @@
 </ul> 
 
 
+<img src="../Projekt/img/headertest.jpg">
 
-<div id="bilder">
-<img src="../Projekt/img/headertest.jpg" id="Bild1">
-</div>
 
         </body>
 
