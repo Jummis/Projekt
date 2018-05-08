@@ -5,33 +5,28 @@ h {
 
 #header {
     width: 1200px;
-    height: 80px;
+    height: 40px;
     background-color:white;
-    border-bottom: 1px solid black;
 }
 
 ul {
     /* navigation-bar kommer fästas i toppen om man bläddrar ner */
-    position: fixed;
-    top: 0;
-    width: 100%;
-    
-    float: right;
     list-style-type: none;
-    margin: 0;
-    padding: 0;
     overflow: hidden;
     background-color:white;
+padding-right: 50px;
+    border-bottom: 1px solid black;
 }
 
 li {
     float: right;
+
 }
 
 li a {
     display: block;
     color: black;
-    text-align: center;
+    padding: 15px 0px 0px 50px;
     text-decoration: none;
 }
 
