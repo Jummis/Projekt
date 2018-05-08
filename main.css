@@ -29,3 +29,8 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
 }
+
+#Bild1{
+    position: absolute;
+    clip: rect(0px, 1400px, 450px, 0px);
+}
