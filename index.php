@@ -15,9 +15,9 @@
 </div>
 
  <ul>
-  <li><a href="default.asp">Vad är hälsocoaching?</a></li>
-  <li><a href="news.asp">Om oss</a></li>
-  <li><a href="contact.asp">Logga In/Registrera</a></li>
+  <li><a href="default.asp">VAD ÄR HÄLSOCOACHING?</a></li>
+  <li><a href="news.asp">OM OSS</a></li>
+  <li><a href="contact.asp">LOGGA IN/REGISTRERA</a></li>
 </ul> 
 
 
