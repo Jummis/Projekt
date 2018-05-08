@@ -9,7 +9,6 @@
     </head>
         <body>
 <div id = "header">
-
 <h>Hälsocoachen</h1>
 
  <ul>
@@ -18,6 +17,10 @@
   <li><a href="contact.asp">Logga In/Registrera</a></li>
 </ul> 
 
+</div>
+
+<div id="bilder">
+<img src="../Projekt/img/headertest.jpg" id="Bild1">
 </div>
 
         </body>
