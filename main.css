@@ -34,3 +34,9 @@ img{
     width: 100%;
     opacity: 0.5;
 }
+
+p{
+    text-align: center;
+    font-size: 50px;
+    color: black; 
+}
