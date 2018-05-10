@@ -34,18 +34,3 @@ img{
     width: 100%;
     opacity: 0.5;
 }
-
-.bild{
-    position: relative;
-    text-align: center;
-    color: black;
-    font-size: 100px;
-}
-
-.bildtext{
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    
-
-}
