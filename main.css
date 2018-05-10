@@ -30,7 +30,27 @@ li a {
     text-decoration: none;
 }
 
-#Bild1{
+img{
+    width: 100%;
+    opacity: 0.5;
+}
+
+.bild{
+    position: relative;
+    text-align: center;
+    color: black;
+    font-size: 100px;
+}
+
+.bildtext{
     position: absolute;
+<<<<<<< HEAD
     clip: rect(0px, 1400px, 450px, 0px);
 }
+=======
+    left: 50%;
+    top: 50%;
+    
+
+}
+>>>>>>> 178903432a4668b4179167bf12e4b933cf6230c7
