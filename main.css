@@ -14,7 +14,7 @@ ul {
     list-style-type: none;
     overflow: hidden;
     background-color:white;
-padding-right: 50px;
+    padding-right: 50px;
     border-bottom: 1px solid black;
 }
 
@@ -32,7 +32,20 @@ li a {
 
 img{
     width: 100%;
-    position: absolute;
-    clip: rect(0px, 1400px, 450px, 0px);
     opacity: 0.5;
+}
+
+.bild{
+    position: relative;
+    text-align: center;
+    color: black;
+    font-size: 100px;
+}
+
+.bildtext{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    
+
 }

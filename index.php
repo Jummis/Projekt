@@ -19,8 +19,10 @@
   <li><a href="contact.asp">LOGGA IN/REGISTRERA</a></li>
 </ul> 
 
-
-<img src="../Projekt/img/headertest.jpg">
+<div class="bild">
+<img src="../Projekt/img/headertest2.jpg">
+<div class="bildtext">HEJSAN</div>
+</div>
 
 
         </body>
